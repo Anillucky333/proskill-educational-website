@@ -1,0 +1,119 @@
+{
+    "course" : [
+        {
+            "id":"1",
+            "name":"Python",
+            "img":"https://aptronnoida.in/blog/wp-content/uploads/2021/01/Python.png",
+            "level":"Begginer"
+        },
+        {
+            "id":"2",
+            "name":"C",
+            "img":"https://i.ytimg.com/vi/c1d987iBBJ0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDklVu0MPldey3AiYq_XIrbMjPO3g",
+            "level":"Begginer"
+        },
+        {
+            "id":"3",
+            "name":"java",
+            "img":"https://www.simplilearn.com/ice9/free_resources_article_thumb/java_trendsb.jpg",
+            "level":"advance"
+        },
+        {
+            "id":"4",
+            "name":"C++",
+            "img":"https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/4086801/cover_image/retina_1708x683/cover-0219-The10MistakesC-Waldek_img-d97eac22878b0f00fe5d5b8d4058dc42.png",
+            "level":"advance"
+        },
+        {
+            "id":"5",
+            "name":"Javscript",
+            "img":"https://softjourn.com/media/images/Articles/Advantages_and_Disadvantages_of_JavaScript/Pic_5_JS.png",
+            "level":"advance"
+        },
+        {
+            "id":"6",
+            "name":"Kotlin",
+            "img":"https://i.ytimg.com/vi/vN_J3iOw_Y8/maxresdefault.jpg",
+            "level":"advance"
+        }
+    ],
+        
+    
+    
+    
+    
+    
+    
+    "c": [
+          {
+            "title": "Introduction to C",
+            "discriptions": "C is a general-purpose, procedural programming language developed by Dennis Ritchie in 1972. It is known for its efficiency and is widely used for system programming, embedded systems, and developing operating systems."
+          },
+          {
+            "title": "Setting Up the Environment",
+            "discriptions": "Learn how to install and configure a C compiler like GCC or Turbo C. We'll also explore Integrated Development Environments (IDEs) like Code::Blocks and Visual Studio Code for writing and running C programs."
+          },
+          {
+            "title": "Hello World Program",
+            "discriptions": "Write your first 'Hello, World!' program in C. Understand the structure of a C program, including headers, main function, and the role of `printf()` for output."
+          },
+          {
+            "title": "Data Types and Variables",
+            "discriptions": "C supports various data types like `int`, `float`, `char`, and `double`. Learn how to declare variables, assign values, and use type modifiers like `short`, `long`, `signed`, and `unsigned`."
+          },
+          {
+            "title": "Input and Output",
+            "discriptions": "Learn how to use `scanf` for taking input from the user and `printf` for displaying output. Understand formatted input/output and escape sequences."
+          },
+          {
+            "title": "Operators in C",
+            "discriptions": "Understand the different operators in C, including arithmetic (`+`, `-`, `*`, `/`, `%`), relational (`==`, `!=`, `>`, `<`), logical (`&&`, `||`, `!`), and bitwise operators (`&`, `|`, `^`, `~`)."
+          },
+          {
+            "title": "Control Statements",
+            "discriptions": "Control the flow of your program using decision-making statements like `if`, `if-else`, `nested if`, and `switch-case`. Learn when and how to use these effectively."
+          },
+          {
+            "title": "Loops in C",
+            "discriptions": "Master looping constructs like `for`, `while`, and `do-while` loops to execute repetitive tasks. Understand the use of `break` and `continue` to control loop execution."
+          },
+          {
+            "title": "Functions in C",
+            "discriptions": "Functions allow modularity in programming. Learn how to define functions, pass parameters (call by value and call by reference), and use return values. Understand the scope of variables in functions."
+          },
+          {
+            "title": "Arrays and Strings",
+            "discriptions": "Arrays store multiple values of the same type. Strings are character arrays terminated by a null character. Learn to declare, initialize, and manipulate arrays and strings using built-in functions."
+          },
+          {
+            "title": "Pointers",
+            "discriptions": "Pointers are variables that store memory addresses. Learn how to declare pointers, perform pointer arithmetic, and understand their importance in dynamic memory allocation and data structures."
+          },
+          {
+            "title": "Structures and Unions",
+            "discriptions": "Structures allow grouping of variables of different types under one name. Unions share the same memory space. Learn how to define and use them in programs."
+          },
+          {
+            "title": "File Handling",
+            "discriptions": "File handling enables reading and writing to files. Learn to use file pointers, open modes (`r`, `w`, `a`), and functions like `fopen`, `fclose`, `fgetc`, `fputc`, and `fprintf`."
+          },
+          {
+            "title": "Dynamic Memory Allocation",
+            "discriptions": "Learn to allocate memory at runtime using functions like `malloc`, `calloc`, `realloc`, and release it using `free`. Understand memory management and avoid memory leaks."
+          },
+          {
+            "title": "Preprocessor Directives",
+            "discriptions": "Preprocessor directives like `#include`, `#define`, and conditional compilation (`#ifdef`, `#ifndef`, `#endif`) are processed before compilation. Learn how they help in code efficiency and modularity."
+          },
+          {
+            "title": "Error Handling",
+            "discriptions": "Errors in C programs can occur at compile-time or runtime. Learn how to handle errors using error codes, `errno`, and debugging techniques."
+          },
+          {
+            "title": "Advanced Topics",
+            "discriptions": "Delve into advanced concepts like multi-threading, data structures (linked lists, stacks, queues), and system-level programming using C libraries."
+          }
+        ]
+    
+      
+}
