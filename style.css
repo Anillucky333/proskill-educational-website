@@ -1,0 +1,73 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1030; 
+    background-color: white;
+    padding: 10px;
+    
+  }
+  main{
+    margin-top: 100px;
+  }
+  #hero{
+    background-image: url();
+  }
+  #left{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    
+  }
+  #courses{
+    margin-top: 100px;
+    
+    
+  }
+  #target{
+    margin-top: 50px;
+  }
+  .course-head{
+    font-weight: 600; 
+    font-family: Poppins, sans-serif;
+    font-size: 40px;
+    text-align: center;
+  }
+
+
+
+  .cards{
+    border-radius: 10px;
+    
+  }
+
+
+
+
+/* tutorial css */
+
+
+#tutorial-heading{
+    background-color: rgb(199, 230, 237);
+    font-weight: 600; 
+    font-family: Poppins, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+   
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.tutorial-heading{
+    font-weight: 600; 
+    font-family: Poppins, sans-serif;
+    font-size: 40px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-top: 30px;
+    text-align: center;
+
+}
+  
